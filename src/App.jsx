@@ -3,7 +3,7 @@ import Login from './pages/login.jsx'
 import { ToastContainer, toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 import { AdminContext } from './context/AdminContext.jsx';
-import Navbar from './components/navBar.jsx';
+import Navbar from './components/Navbar.jsx';
 import Sidebar from './components/Sidebar.jsx';
 import { Route, Routes } from 'react-router-dom';
 import AddDoctor from './pages/Admin/AddDoctor.jsx';
